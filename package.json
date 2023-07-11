@@ -1,0 +1,22 @@
+{
+  "name": "spinning-machine",
+  "version": "1.0.0",
+  "description": "A simple spinning machine game built using JS",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshroshanmn/Spinning-Machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshroshanmn/Spinning-Machine/issues"
+  },
+  "homepage": "https://github.com/rakeshroshanmn/Spinning-Machine#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
